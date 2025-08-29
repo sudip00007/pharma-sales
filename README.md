@@ -9,7 +9,8 @@ Custom KPIs and filters for deep dive analysis
 # Tools & Technologies
 
 Power BI – for data modeling and visualization
-DAX Measures – for KPIs and advanced calculations
+
+ DAX Measures – for KPIs and advanced calculations
 Data Cleaning & Transformation – performed within Power Query
 
 # Use Case
